@@ -9,6 +9,9 @@ import java.util.Properties;
 
 /**
  * Created by muzhe on 15-7-28.
+ *
+ * 这是一个属性文件的设置的功能，
+ * 主要完成的功能是将当前resource中的property.加载到内存中，同时提供一个获取属性的接口
  */
 public class ConfigUtil {
 
